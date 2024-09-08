@@ -1,0 +1,1 @@
+editor update "%YOUR_DIRECTORY%\save_coop_0.sav" --patch=%YOUR_DIRECTORY%\save_coop_0.sav(edited).json --output=%YOUR_DIRECTORY%\(patched)save_coop_0.sav
