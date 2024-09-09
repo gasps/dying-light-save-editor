@@ -4,5 +4,5 @@ This program was made by Steffen Langnes and with these batch files, it simplifi
 
 resources - https://www.steffenl.com/projects/dying-light-save-editor
 
-tutorial - youtube.com/gasps
+tutorial - [youtube.com/gasps](https://www.youtube.com/watch?v=I1usH5jXBIQ)
 
